@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Pranya Patel 👋
 
-<!--
-**Pranya15/Pranya15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programmer | 📊 Learner | 🚀 Building Skills One Commit at a Time
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♀️ About Me
+
+- 💻 Working on DSA  
+- 🐍 Learning Python & C++  
+- 📈 Improving problem-solving  
+- 🚀 Consistent learner  
+
+---
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cpp,python,git,github,vscode" />
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Pranya15&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranya15&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pranya15&theme=react-dark)
+
+---
+
+## 💡 Quote
+
+> Building skills, one commit at a time 🚀
