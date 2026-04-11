@@ -7,8 +7,9 @@
 ## 🙋‍♀️ About Me
 
 - 💻 Working on DSA  
-- 🐍 Learning Python & C++  
-- 📈 Improving problem-solving  
+- 🐍 Learning Python & C++
+- 🌐 Learning Web Development 
+- 📈 Improving problem-solving skills 
 - 🚀 Consistent learner  
 
 ---
