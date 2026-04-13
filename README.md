@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://stats.vercel.app/api?username=Pranya15)
+
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranya15&theme=tokyonight)
 
