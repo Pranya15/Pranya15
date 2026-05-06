@@ -24,7 +24,7 @@
 
 
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranya15&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=Pranya15&theme=tokyonight)
 
 ---
 
