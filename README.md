@@ -1,6 +1,6 @@
 # Hi, I'm Pranya Patel 👋
 
-💻 Programmer | 📊 Learner | 🚀 Building Skills One Commit at a Time
+💻 Programmer | 📊 Learner | 🚀 "Make it work, make it right, make it fast." — Kent Beck
 
 ---
 
